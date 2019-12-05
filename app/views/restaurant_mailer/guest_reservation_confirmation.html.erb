@@ -1,0 +1,14 @@
+<br>
+<p>
+  Thanks for the reservation at <%= @reservation.restaurant.name %> restaurant
+</p>
+<br>
+<br>
+<table>
+	<tr bgcolor="#c9c9c9"><td colspan="2"><b> Details </b></td></tr>
+	<tr><td><b>Restaurant Name</b></td> <td><%= @reservation.restaurant.name %></td></tr>
+	<tr><td><b>Table</b></td> <td><%= @reservation.table.name %></td></tr>
+	<tr><td><b>Guest Count</b></td> <td><%= @reservation.guest_count %></td></tr>
+	<tr><td><b>Restaurant Time </b></td> <td><%= @reservation.restaurant_time.strftime("%d/%m/%Y %H:%M") %></td></tr>
+	<tr><td><b>Reservation Id </b></td> <td><%= @reservation.id %></td></tr>
+</table>
