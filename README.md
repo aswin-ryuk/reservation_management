@@ -20,7 +20,7 @@ d. There should be a restaurant entity in the system with name, email and phone.
   
   •	Guest who made the reservation, guest count for the reservation - the guest count must be between maximum and minimum capacity of the table selected for reservation 
   
-	• When the reservation is created the guest should receive an email with reservation details.
+  •     When the reservation is created the guest should receive an email with reservation details.
   
   •	When the reservation is created the restaurant should receive an email with guest details.
 
@@ -30,4 +30,4 @@ d. There should be a restaurant entity in the system with name, email and phone.
 
 
 
-[Solution](https://github.com/aswin-ryuk/reservation_management/blob/master/public/restaurant%20management%20api%20test%20evidence.docx)
+## [Solution](https://github.com/aswin-ryuk/reservation_management/blob/master/public/restaurant%20management%20api%20test%20evidence.pdf)
