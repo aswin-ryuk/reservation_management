@@ -27,3 +27,7 @@ d. There should be a restaurant entity in the system with name, email and phone.
 #### Create an API endpoint that updates the reservation - when the reservation details are changed, the guest should receive an email with - old and updated reservation time, old and updated guest count.
 
 #### Create an API end point that returns a list of reservations for a restaurant. Reservation should have these fields - Reservation time, guest count, guest name, table name
+
+
+
+[Solution](https://github.com/aswin-ryuk/reservation_management/blob/master/public/restaurant%20management%20api%20test%20evidence.docx)
